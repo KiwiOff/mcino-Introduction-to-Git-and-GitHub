@@ -1,0 +1,5 @@
+Command:
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/63
+
+Output:
+"state": "open"
